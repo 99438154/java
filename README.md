@@ -22,4 +22,4 @@ Float 也要加F double d1=12.3；
              float f1=12.3F；
 整形默认int；浮点型默认double；所以不用加L和F
 
-<img src="C:\Users\Wyy\Desktop/未命名图片.png" alt="alt text" title="Title" />
+<img src="G:\github\img/未命名图片.png" alt="alt text" title="Title" />
